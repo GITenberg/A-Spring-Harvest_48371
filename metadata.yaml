@@ -1,0 +1,23 @@
+_repo: A-Spring-Harvest_48371
+contributor:
+  creator:
+    editor:
+      agent_name: Tolkien, John Ronald Reuel
+      gutenberg_agent_id: '42379'
+      url: http://www.gutenberg.org/2009/agents/42379
+creator:
+  author:
+    agent_name: Smith, Geoffrey Bache
+    gutenberg_agent_id: '44759'
+    url: http://www.gutenberg.org/2009/agents/44759
+description: ''
+gutenberg_issued: '2015-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48371'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: A Spring Harvest
+url: http://www.gutenberg.org/ebooks/48371
