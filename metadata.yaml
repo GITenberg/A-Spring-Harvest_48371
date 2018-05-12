@@ -1,16 +1,22 @@
 _repo: A-Spring-Harvest_48371
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Tolkien, John Ronald Reuel
       gutenberg_agent_id: '42379'
       url: http://www.gutenberg.org/2009/agents/42379
+covers:
+- cover_type: archival
+  image_path: 48371-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Geoffrey Bache
     gutenberg_agent_id: '44759'
     url: http://www.gutenberg.org/2009/agents/44759
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48371#A-Spring-Harvest
 gutenberg_issued: '2015-02-26'
 gutenberg_type: Text
 identifiers:
